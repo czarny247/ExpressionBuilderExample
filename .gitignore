@@ -1,0 +1,3 @@
+#ignore all directories made for build or containing binaries
+bin/
+build/
